@@ -1,0 +1,36 @@
+/* - */
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////// */
+/* !  |  |  |  |  |  |  |  |  |  |  |  |  |  Home  !  |  |  |  |  |  |  |  |  |  |  |  |  |  | */
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////// */
+/* - */
+html {
+    scroll-behavior: smooth;
+}
+
+.pg_1_home_navbar_intro{
+    background-image: url("../../imgs/Pictures/1.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.pg_1_home_we_do{
+    background-image: url("../../imgs/Pictures/4.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.pg_1_home_testimonials{
+    background-image: url("../../imgs/Pictures/8.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.pg_1_home_footer{
+    background-image: url("../../imgs/Pictures/9.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
